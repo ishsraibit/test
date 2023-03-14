@@ -5,4 +5,5 @@ lesson02
 git & github
 
 lesson03
-github, fahrenheit to celsius
+github
+git remote/push ...
