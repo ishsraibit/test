@@ -1,5 +1,4 @@
 lesson01
-git init
 git init/add/commit/config/log
 
 lesson02
